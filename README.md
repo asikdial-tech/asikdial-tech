@@ -87,8 +87,8 @@ IoT-based automation system with **ESP32 and sensors**.
 ---
 
 ## **💼 Professional Experience**  
-### **Technical Solutions Intern** @ [Unit Computer](https://example.com)  
-**2023–Present**  
+### **Technical Solutions Intern** @ [Unique Computer Kushtia](https://example.com)  
+**2025–Present**  
 - Developed **Python automation scripts** (✅ **20% efficiency gain**).  
 - Integrated **IoT hardware/software** for 5+ client projects.  
 - Collaborated on **cross-functional teams** to deliver scalable solutions.  
